@@ -7,4 +7,8 @@
 ### **О себе**  <hr>
 
 ### **Цель** <hr>
-[Uploading Screencast from 03.06.2023 22_42_08.webm…]()
+
+
+https://github.com/FutureAngeI/MarkelovVK_1002/assets/102414374/4fe127f7-de53-4511-81a4-922dd6602878
+
+
