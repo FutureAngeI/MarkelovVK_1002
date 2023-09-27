@@ -20,6 +20,7 @@ https://github.com/FutureAngeI/MarkelovVK_1002/assets/102414374/0a13d156-cc90-4e
 
 <details>
   <summary>Q1: Мое фото, если кому-о интересно </summary>
-   A1: ![фиошка](https://github.com/FutureAngeI/MarkelovVK_1002/assets/102414374/0347e620-16f5-4b73-9c58-9103f127b3dc)
+   A1: ![meph](https://github.com/FutureAngeI/MarkelovVK_1002/assets/102414374/e5da9276-9148-46b5-8bb4-5212d1719b2f)
+
 
 </details>
