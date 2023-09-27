@@ -12,6 +12,7 @@
 https://github.com/FutureAngeI/MarkelovVK_1002/assets/102414374/4fe127f7-de53-4511-81a4-922dd6602878
 
 <details>
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript
+  <summary>Q1: Мое фото, если кому-о интересно </summary>
+   A1: ![фиошка](https://github.com/FutureAngeI/MarkelovVK_1002/assets/102414374/0347e620-16f5-4b73-9c58-9103f127b3dc)
+
 </details>
